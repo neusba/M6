@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.button {
+    padding: 2.5vw;
+    background-color: rgb(162, 116, 205);
+    border: 3px solid;
+    border-radius: 30%;
+    margin: 5vw
+}
+
+.button:hover {
+    padding: 2.8vw;
+}
+
+.mario {
+    width: 5vw;
+}
