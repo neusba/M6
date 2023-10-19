@@ -1,0 +1,41 @@
+.pag {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#tabla {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#td {
+   width: 20px;
+   height: 20px;
+   background-color: rgb(218, 131, 231);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 0.8vw;
+}
+
+#tr {
+    background-color: white;
+}
+
+button {
+    width: 10%;
+}
+
+#tdRojo {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+
+}
+#tdBlanco {
+    background-color: white;
+    width: 20px;
+    height: 20px;
+}
